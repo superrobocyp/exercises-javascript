@@ -4,10 +4,8 @@
 ```javascript
 let greeting = 'Father!';
 console.log(greeting);
-console.log(greeting);
 
 greeting = 'Mother!';
-console.log(greeting);
 console.log(greeting);
 ```
 
